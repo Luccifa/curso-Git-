@@ -4,4 +4,3 @@ instrucao 03
 instrucao 04
 instrucao 05
 instrucao 06
-instrucao 07
